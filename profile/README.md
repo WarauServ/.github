@@ -8,7 +8,7 @@ Notre organisation GitHub est un espace dédié aux développeurs. Vous y trouve
 
 ## Technologies du serveur
 
-Notre serveur utilise plusieurs technologies de pointe pour offrir la meilleure expérience possible. Nous utilisons **Java** pour le développement du serveur, **MongoDB** pour la gestion des données, **Redis** pour le stockage en cache et une application en Java nommer, , qui sert de cerveau pour l’infrastructure. Ces technologies nous permettent de créer un environnement de jeu stable et performant.
+Notre serveur utilise plusieurs technologies de pointe pour offrir la meilleure expérience possible. Nous utilisons **Java** pour le développement du serveur, **MongoDB** pour la gestion des données, **Redis** pour le stockage en cache et une application en Java nommer, qui sert de cerveau pour l’infrastructure. Ces technologies nous permettent de créer un environnement de jeu stable et performant.
  
 > Nous notifions que le choix de nos technologies est propre à **nos préférences**. Nous vous conseillons de choisir la technologie qui **convient le mieux** à votre projet.
 
