@@ -16,6 +16,7 @@ Notre serveur utilise plusieurs technologies de pointe pour offrir la meilleure 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ## Statistiques du projet
 
 ![Follow](https://img.shields.io/github/followers/WarauServ.svg?style=social&label=Follow&maxAge=2592000)
